@@ -26,4 +26,3 @@ Mặc định : `a.`
 - Bot đầu tay nên còn nhiều bug , mong mọi người thông cảm nha ! Arigatooo ! ありがとう !
 # Thông tin
 - Bot đang dùng trên `Discord.js@v12.5.3`
-//<a  href="https://discord.gg/m28q56rkq6"><img  src="https://discord.com/api/guilds/815958968135319562/widget.png?style=banner1"></a>
