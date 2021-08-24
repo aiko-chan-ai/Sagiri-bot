@@ -25,4 +25,4 @@ Mặc định : `a.`
 - Support : Famuto-kun#2303
 - Bot đầu tay nên còn nhiều bug , mong mọi người thông cảm nha ! Arigatooo ! ありがとう !
 # Thông tin
-- Bot đang dùng trên `Discord.js@v12.5.3`
+- Bot đang dùng trên `Discord.js@v13.1.0`
