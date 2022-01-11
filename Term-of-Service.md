@@ -1,5 +1,5 @@
 # Điều khoản dịch vụ của Sagiri
-Điều khoản này được xem như là một hợp đồng giữa bên cung cấp dịch vụ A (Sagiri) và bên B (Bạn). Bằng việc sử dụng dịch vụ của chúng tôi, bạn đồng ý với [Điều khoản dịch vụ](https://github.com/NezukoBotTeam/nezukobot-faqs/blob/main/TOS.md) và [Chính sách riêng tư](https://github.com/NezukoBotTeam/nezukobot-faqs/blob/main/PRIVACY-POLICY.md) của NezukoBot.
+Điều khoản này được xem như là một hợp đồng giữa bên cung cấp dịch vụ A (Sagiri) và bên B (Bạn). Bằng việc sử dụng dịch vụ của chúng tôi, bạn đồng ý với [Điều khoản dịch vụ](https://github.com/aiko-chan-ai/Sagiri-bot/blob/main/Term-of-Service.md) và [Chính sách riêng tư](https://github.com/aiko-chan-ai/Sagiri-bot/blob/main/PRIVACY-POLICY.md) của NezukoBot.
 ## Danh sách
 - [TOS](#)
 - [Nhà cung cấp dịch vụ](#nhà-cung-cấp-dịch-vụ)
