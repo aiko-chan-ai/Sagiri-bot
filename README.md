@@ -21,8 +21,7 @@ Mặc định : `a.`
 - Search 
 - Và nhiều chức năng khác
 # Hỗ trợ
-- Main Dev : Aiko#1782 (Shiraori / Siesta)
-- Support : Famuto-kun#2303
+- Main Dev : Aiko#1782 (Shiraori)
 - Bot đầu tay nên còn nhiều bug , mong mọi người thông cảm nha ! Arigatooo ! ありがとう !
 # Thông tin
-- Bot đang dùng trên `Discord.js@v13.1.0`
+- Bot đang dùng trên `Discord.js@v13.6.0`
