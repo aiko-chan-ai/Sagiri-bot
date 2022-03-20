@@ -207,7 +207,7 @@ Response
 ```js
 {
 	msg: `URL của bạn được tạo thành công
-Cách dùng: {baseURL}/api/v1/embed/1f2f3f4
+Cách dùng: {baseURL}/api/v1/embed/JfJ1kUG7
 Dùng tới khi bot bị reset nhé`,
 	path: 'JfJ1kUG7',
 	code: 200,
