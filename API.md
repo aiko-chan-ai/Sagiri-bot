@@ -31,9 +31,9 @@ Response
   }
 }
 ```
-  
+
 <strong>Image Demo</strong>
-  
+
 <img src='https://media.discordapp.net/attachments/915903029276971008/915913485580386314/201.jpg'>
 </details>
 
@@ -99,7 +99,9 @@ Response
 - Endpoint: <strong>/djsdoc</strong>
 - Method: <strong>GET</strong>
 - Authorization: <strong>False</strong>
-- Param: <strong>Keyword</strong>
+- Param: <strong>No</strong>
+- Query1: <strong>type</strong>
+- Query2: <strong>keyword</strong>
 - Description: Lấy 1 Embed về Discord.js Doc [Đã format để gửi trực tiếp]
 <details>
 <summary><strong>Axios NodeJS Demo</strong></summary>
@@ -107,15 +109,16 @@ Response
 Code:
 ```js
 const axios = require('axios');
+// Type: stable | main
 axios
-    .get('https://sagiri-fansub.tk/api/v1/djsdoc/error')
+    .get('https://sagiri-fansub.tk/api/v1/djsdoc?type=stable&keyword=error')
 	.then((res) => console.log(res.data))
 	.catch((e) => console.log(e));
 ```
 Response
 ```js
 {
-  msg: 'Lấy data thành công',
+  msg: 'Success',
   code: 200,
   data: {
     title: 'Search results:',
@@ -153,5 +156,4 @@ Response
 
 <img src='https://cdn.discordapp.com/attachments/820557032016969751/955169519905701918/unknown.png'>
 </details>
-
 
