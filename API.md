@@ -100,8 +100,8 @@ Response
 - Method: <strong>GET</strong>
 - Authorization: <strong>False</strong>
 - Param: <strong>No</strong>
-- Query1: <strong>type</strong>
-- Query2: <strong>keyword</strong>
+- Query1: <strong>type</strong> | Not required
+- Query2: <strong>keyword</strong> | Required
 - Description: Lấy 1 Embed về Discord.js Doc [Đã format để gửi trực tiếp]
 <details>
 <summary><strong>Axios NodeJS Demo</strong></summary>
